@@ -1,8 +1,5 @@
 Sweet Shop Management System
 A full-stack web application for managing a sweet shop inventory, built with Test-Driven Development (TDD) methodology.
-
-https://tastytreats.vercel.app/screenshot.png
-
 Live Application: https://tastytreats.vercel.app/
 
 Table of Contents
@@ -184,12 +181,6 @@ POST /api/sweets/:id/purchase - Purchase a sweet (decrease quantity)
 
 POST /api/sweets/:id/restock - Restock a sweet (Admin only, increase quantity)
 
-Screenshots
-https://tastytreats.vercel.app/screenshots/login.png
-Login Page
-
-https://tastytreats.vercel.app/screenshots/dashboard.png
 Dashboard showing all sweets
 
-https://tastytreats.vercel.app/screenshots/admin.png
 Admin panel for managing sweets
